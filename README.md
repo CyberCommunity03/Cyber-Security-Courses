@@ -1,13 +1,10 @@
 # Cyber-Security-Courses
 
-# Bug Bounty Course
-https://www.udemy.com/course/bug-bounty-offensive-hunting-course-a-complete-guide/?referralCode=2514D5766CA51626A7FE
-
-# Ethical Hacking Master's CEH Course
-https://www.udemy.com/course/ethical-hacking-ceh-masters-course/?referralCode=859F8A5F7A85913549C4
-
 # SOC/Cyber Security Analyst Interview Questions/Answers
-https://www.udemy.com/course/soc-cyber-security-analyst-interview-questions-top-100/?referralCode=4BAA5B6E60761D497853
+https://www.udemy.com/course/cybersecurity-interview-questions-answers/?referralCode=98B1BF60749B319C122D
+
+# Advanced Phishing Email Analysis
+https://www.udemy.com/course/advanced-email-analysis/?referralCode=F39163447C0F4EE725D8
 
 # Ultimate Way to Analyse Phishing Email : A Complete Guide
-https://www.udemy.com/course/ultimate-way-to-analyse-phishing-email-basic-to-advanced/?referralCode=FAB9486BC67871EF1520
+https://www.youtube.com/watch?v=ztGGxXMwwR4 
